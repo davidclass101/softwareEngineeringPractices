@@ -2,14 +2,6 @@
 
 Welcome to SETULife, the ultimate student services app for SETU students.
 
-## TODO
-
-- [ ] Implement user authentication
-- [ ] Create a dashboard for students to view their courses and grades
-- [ ] Develop a feature for students to view their course timetable and material
-- [ ] Build a notification system for important announcements
-- [ ] Integrate a chat feature for students to communicate with each other and lecturers
-
 ## Features
 
 SETULife is packed with powerful features to enhance the student experience:
@@ -19,6 +11,14 @@ SETULife is packed with powerful features to enhance the student experience:
 - **Course Management**: Easily manage your schedule and courses, including viewing of course material.
 - **Notifications**: Stay updated with important announcements and deadlines.
 - **Chat**: Connect with fellow students and collaborate on projects, as well as contact lecturers.
+
+## TODO
+
+- [ ] Implement user authentication
+- [ ] Create a dashboard for students to view their courses and grades
+- [ ] Develop a feature for students to view their course timetable and material
+- [ ] Build a notification system for important announcements
+- [ ] Integrate a chat feature for students to communicate with each other and lecturers
 
 ## Getting Started
 
