@@ -24,6 +24,4 @@ SETULife is packed with powerful features to enhance the student experience:
 
 SETULife can be found at the following website:
 
-## License
 
-SETULife is licensed under the [MIT License](LICENSE).
